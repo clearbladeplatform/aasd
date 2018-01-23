@@ -1,0 +1,9 @@
+{
+    "auth": true,
+    "description": "",
+    "messaging_url": "127.0.0.1:1883",
+    "name": "aasd",
+    "platform_url": "http://dev.clearblade.com",
+    "system_key": "e887bea60bfcac82f4e7eb92b4d901",
+    "system_secret": "E887BEA60B8AE4B99BF6D789E6AC01"
+}
